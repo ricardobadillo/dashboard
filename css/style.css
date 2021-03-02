@@ -68,7 +68,6 @@ body{
     height: 40px; /* 60 */
     justify-content: space-between;
     padding:  0 30px 0 30px;
-    position: fixed;
 }
 
 .navbar_icono{
@@ -233,7 +232,7 @@ body{
 .sidebar_responsive{
     display: inline !important;
     left: 0 ! important;
-    position: absolute;
+    position: fixed;
     z-index: 9999 !important;
 }
 
