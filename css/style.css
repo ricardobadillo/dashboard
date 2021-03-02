@@ -231,10 +231,10 @@ body{
 
 .sidebar_responsive{
     display: inline !important;
-    left: 0 ! important;
+    left: 0;
     overflow: scroll;
     position: absolute;
-    z-index: 1000 !important;
+    z-index: 1000;
 }
 
 .main_titulo > img{
