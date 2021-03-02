@@ -230,10 +230,10 @@ body{
 }
 
 .sidebar_responsive{
-    display: inline;
-    left: 0;
+    display: inline !important;
+    left: 0 ! important;
     position: fixed;
-    z-index: 9999;
+    z-index: 9999 !important;
 }
 
 .main_titulo > img{
