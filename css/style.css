@@ -414,9 +414,7 @@ body{
         grid-template-rows: 0.2fr 3fr;
     }
 
-    #sidebar{
-        display: none;
-    }
+
 
     .sidebar_titulo > i{
         display: inline;
